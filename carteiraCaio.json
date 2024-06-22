@@ -1,0 +1,62 @@
+[
+    {
+        "codigoAcao": "ABEV3",
+        "sector": 3,
+        "subSector": 18,
+        "segment": 46
+    },
+    {
+        "codigoAcao": "CPLE6",
+        "sector": 10,
+        "subSector": 44,
+        "segment": 85
+    },
+    {
+        "codigoAcao": "CRFB3",
+        "sector": 3,
+        "subSector": 19,
+        "segment": 47
+    },
+    {
+        "codigoAcao": "DIRR3",
+        "sector": 2,
+        "subSector": 9,
+        "segment": 23
+    },
+    {
+        "codigoAcao": "GRND3",
+        "sector": 2,
+        "subSector": 13,
+        "segment": 32
+    },
+    {
+        "codigoAcao": "HYPE3",
+        "sector": 7,
+        "subSector": 36,
+        "segment": 77
+    },
+    {
+        "codigoAcao": "ODPV3",
+        "sector": 7,
+        "subSector": 39,
+        "segment": 80
+    },
+    {
+        "codigoAcao": "SHUL4",
+        "sector": 1,
+        "subSector": 3,
+        "segment": 9
+    },
+    {
+        "codigoAcao": "TAEE11",
+        "sector": 10,
+        "subSector": 44,
+        "segment": 85
+    },
+    {
+        "codigoAcao": "WEGE3",
+        "sector": 1,
+        "subSector": 3,
+        "segment": 9
+    }
+]
